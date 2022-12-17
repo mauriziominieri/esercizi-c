@@ -1,0 +1,10 @@
+C. Harness, "Astronave senza tempo", fantascienza, 9.95, 17
+E. Salgari, "Jolanda, la figlia del corsaro Nero", avventura, 18.50, 4
+R. Tolkien, "Il signore degli anelli", fantasy, 80.00, 32
+S. Salgado, "Genesi", fotografia, 57.00, 25
+E. Salgari, "Il corsaro Nero", avventura, 17.50, 5
+G. Martin, "Il drago di ghiaccio", fantasy, 14.25, 21
+I. Asimov, "Il crollo della Galassia Centrale", fantascienza, 14.90, 27
+W. Irwin, "I Simpson e la filosofia", saggistica, 18.05, 12
+I. Farrell, "Corso completo di filosofia digitale", fotografia, 28.40, 35
+S. Singh, "L'ultimo teorema di Fermat", saggistica, 16.53, 18

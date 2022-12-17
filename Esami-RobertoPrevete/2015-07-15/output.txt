@@ -1,0 +1,5 @@
+Gondor	 Mordor	  20.2581
+Mordor	 Gondor	  20.2581
+Arnor	 Harad	  65.5844
+Erebor	 Harad	  28.1114
+Harad	 Erebor	  28.1114

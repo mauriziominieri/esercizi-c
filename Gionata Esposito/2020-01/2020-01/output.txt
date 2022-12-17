@@ -1,0 +1,2 @@
+stringa: xxppxx
+indirizzo: 0x7ffeecd34a10

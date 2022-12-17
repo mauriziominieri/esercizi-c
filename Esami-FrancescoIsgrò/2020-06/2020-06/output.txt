@@ -1,0 +1,5 @@
+Fedora 580 22 16
+Antergos 470 28 13
+CentOS 440 33 12
+Manjaro 410 24 12
+Mint 320 17 8

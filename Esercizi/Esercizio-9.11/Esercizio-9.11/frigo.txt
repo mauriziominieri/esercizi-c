@@ -1,0 +1,3 @@
+uovo 1
+olio 0.5
+parmigiano 0.1

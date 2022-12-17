@@ -1,0 +1,6 @@
+latte	l		0.25
+farina	g		300
+olio	l		0.05
+uova	u		2
+burro	g		50
+yogurt	g		50

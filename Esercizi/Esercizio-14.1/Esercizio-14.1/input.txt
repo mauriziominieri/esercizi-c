@@ -1,0 +1,6 @@
+12 pattinaggio 0
+14 discesa 1
+13 discesa 0
+12 discesa 0
+11 slalom 0
+12 slalom 1
